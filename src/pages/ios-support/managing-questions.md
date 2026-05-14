@@ -5,7 +5,7 @@ layout: ../../layouts/SupportLayout.astro
 
 # Managing Questions
 
-Practiso provides the Questions page, Clusters page, question detail pages, and
+Practiso provides the Questions page, Dimension page, question detail pages, and
 category detail pages for browsing, editing, categorizing, sharing, and
 importing questions.
 
@@ -46,10 +46,10 @@ the question content can be made public.
 
 ## Browse Categories
 
-The Clusters page lists all categories. Categories help you organize questions
+The Dimension page lists all categories. Categories help you organize questions
 by topic, chapter, or knowledge point.
 
-1. Open the Clusters page.
+1. Open the Dimension page.
 2. Tap a category to open its detail page.
 3. Touch and hold a category to preview its content.
 4. Swipe left on a category to delete it.
@@ -60,7 +60,7 @@ The category detail page shows questions that belong to the current category.
 You can view questions, adjust relevance, or exclude questions from the
 category.
 
-1. Go to the Clusters page.
+1. Go to the Dimension page.
 2. Tap the category you want to manage.
 3. On the category detail page, review the questions in that category.
 4. Touch and hold a question to preview its content.

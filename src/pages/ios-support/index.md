@@ -11,7 +11,7 @@ Practiso is used to create question sets, manage questions, organize content by 
 
 - **Practice and question sets**: View recent answer records on the question sets page, create new question sets, and quickly start practice from cards.
 - **Question management**: Browse all questions on the Questions page, then open detail pages to edit, rename, share, or view categories.
-- **Category organization**: View categories on the Clusters page, manage questions in category detail pages, or use semantic search to add related questions.
+- **Category organization**: View categories on the Dimension page, manage questions in category detail pages, or use semantic search to add related questions.
 - **Answering experience**: Swipe up or down on the answering page to switch questions, and optionally enable a timer and accuracy feedback.
 - **Community sharing**: Search, preview, and download public archives on the Community page, or upload your own questions or archives to the community.
 - **Archive preview**: When opening a Practiso archive from the system file manager, preview its content before deciding whether to import it into the question bank.
