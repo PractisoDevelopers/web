@@ -1,6 +1,6 @@
 ---
 title: 管理试题
-layout: ../../../../layouts/SupportLayout.astro
+layout: ../../../layouts/SupportLayout.astro
 ---
 
 # 管理试题
