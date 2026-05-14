@@ -9,13 +9,19 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "generate-types": "wrangler types"
   },
   "dependencies": {
-    "astro": "^6.3.2"
+    "@astrojs/cloudflare": "^13.5.1",
+    "astro": "^6.3.2",
+    "wrangler": "^4.90.1"
   },
   "devDependencies": {
     "prettier": "^3.8.3",
     "prettier-plugin-astro": "^0.14.1"
+  },
+  "overrides": {
+    "vite": "^7"
   }
 }
